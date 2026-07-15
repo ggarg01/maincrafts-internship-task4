@@ -47,7 +47,7 @@ This project creates a mini visualization dashboard using the Titanic dataset. T
 ## Files Included
 
 * task4_titanic.ipynb – Jupyter Notebook containing the complete dashboard, analysis, visualizations, and observations.
-* Titanic.csv – Titanic dataset used for the analysis.
+* Titanic-Dataset.csv – Titanic dataset used for the analysis.
 
 ## Tools Used
 
